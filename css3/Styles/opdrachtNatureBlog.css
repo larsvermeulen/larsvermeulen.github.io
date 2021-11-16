@@ -1,0 +1,27 @@
+body {
+    width: 1200px;
+    margin: auto;
+}
+article {
+    background-color: grey;
+}
+article header {
+    font-size : 30px;
+    text-decoration: underline;
+}
+.titel {
+    color: white;
+    font-size: 50px;
+}
+.titelHeader {
+    background-image: url("header.jpg");
+    height: 150px;
+}
+.top {
+    background-color: #270C06;
+
+}
+.top a {
+    color: #00ff00;
+    font-size: 20px;
+}

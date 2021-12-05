@@ -1,0 +1,23 @@
+article:nth-child(2n) img {
+    float: right;
+}
+article {
+    border-style: solid;
+    border-color: black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    overflow: auto;
+    font-size: 1.25em;
+}
+img {
+    margin: 10px;
+    float: left;
+}
+p {
+    margin: 10px;
+}
+h2 {
+    margin-left: 10px;
+}

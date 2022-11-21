@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Opdracht Flexbox/Opdracht Flexbox Lars Vermeulen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Opdracht Flexbox/frontendmentorprofilecard" vcs="Git" />
   </component>
 </project>

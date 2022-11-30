@@ -1,0 +1,42 @@
+body{
+    background-color: silver;
+    margin: 0px;
+}
+#wrapper{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+nav{
+    height: 200px;
+    width: 20%;
+    float: left;
+    background-color: white;
+
+}
+ul{
+    list-style: none;
+}
+section{
+    width: 80%;
+    float: right;
+    background-color: red;
+    height: 200px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+span{
+    background-color: green;
+}
+footer{
+    display: block;
+    clear: both;
+    background-color: green;
+    height: 200px;
+}

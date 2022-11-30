@@ -1,0 +1,15 @@
+body {
+    margin:0;
+}
+
+.kolom {
+    display:inline-block;
+    width:50%;
+    box-sizing:border-box;
+    padding:10px;
+}
+
+.space {
+    padding:10px;
+    border:1px solid black;
+}

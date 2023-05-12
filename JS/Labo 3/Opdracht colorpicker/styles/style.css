@@ -1,0 +1,13 @@
+*{
+    font-family: Arial sans-serif;
+}
+.kleur {
+    border:solid 1px black;
+    height:5em;
+    width:5em;
+}
+.Sliders {
+    display:inline-block;
+}
+
+

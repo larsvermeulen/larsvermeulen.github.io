@@ -1,0 +1,21 @@
+*{
+    font-family: Arial sans-serif;
+}
+.kleur {
+    border:solid 1px black;
+    height:5em;
+    width:5em;
+    display: inline-block;
+    margin-right: 1em;
+}
+.Sliders {
+    display:inline-block;
+}
+.kleur2{
+    border:solid 1px black;
+    height:5em;
+    width:5em;
+}
+
+
+

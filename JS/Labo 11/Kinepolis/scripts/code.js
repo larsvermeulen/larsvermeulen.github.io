@@ -1,7 +1,6 @@
 const setup = () => {
 
 }
-
 const CreateSeats = () => {
     var lstImages = document.getElementById("lstImages");
     for(let i = 0; i< seats.length; i++){
